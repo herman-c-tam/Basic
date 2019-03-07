@@ -23,7 +23,7 @@ public class IfForExamples
         c = b-a; // now c is 3-2 which is 1
         System.out.println("c contains 1");
         if(c>=0) System.out.println("c is a non negative");
-        if(c<0) System.out.println("c is negative\n");
+        if(c<0) System.out.println("c is negative\t\n");
 
     }
 }
